@@ -1,25 +1,23 @@
 # instagram clone
+## This project is not finished !
 
-This is an instagram clone website. Project is not finished yet, but frontend of instagram look very simillar to real instagram.
+* this is my instagram clone website.
+
+* even if it's not finished you can check it out on live site
+* #  [live site](https://matejduben.github.io/instagram-clone/#/)
 
 ---
 
-> Instagram Clone
 
-## Build Setup
+
+## if you want to run project, you must run this
 
 ``` bash
-# install dependencies
+#1.
 npm install
 
-# serve with hot reload at localhost:8080
+#2. serve with hot reload at localhost:8080
 npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
