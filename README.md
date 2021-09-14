@@ -1,5 +1,9 @@
 # instagram clone
 
+This is an instagram clone website. Project is not finished yet, but frontend of instagram look very simillar to real instagram.
+
+---
+
 > Instagram Clone
 
 ## Build Setup
